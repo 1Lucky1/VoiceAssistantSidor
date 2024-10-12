@@ -1,5 +1,5 @@
 import logging
-import os
+import ospip
 import subprocess
 import threading
 import time
